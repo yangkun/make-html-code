@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Escape HTML",
+        "command": "make-html-code:make"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Escape HTML",
+          "submenu": [
+            {
+              "label": "Escape HTML",
+              "command": "make-html-code:make"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
