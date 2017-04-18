@@ -18,5 +18,9 @@
     "name": "Yangkun",
     "email": "yangkun7@gmail.com",
     "url": "https://guny.kr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangkun/make-html-code"
   }
 }
