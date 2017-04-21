@@ -1,7 +1,7 @@
 {
   "name": "make-html-code",
   "main": "./lib/make-html-code",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "make html code from html block (escape html)",
   "keywords": [],
   "activationCommands": {
